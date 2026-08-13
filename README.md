@@ -16,7 +16,7 @@ Este é um painel (dashboard) criado para otimizar e organizar rotinas de atendi
 - Atualizações em tempo real mediante a alimentação da planilha
 
 ## 🔗 Links
-- **Visualizar Projeto:** [Clique aqui para acessar o Dashboard](https://samillylife07-hue.github.io/dashboard-atendimento/)
+- **Visualizar Projeto:** [https://samillylife07-hue.github.io/dashboard-atendimento/)
 
 ## 🛠️ Tecnologias Utilizadas
 - HTML
