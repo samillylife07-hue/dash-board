@@ -33,4 +33,4 @@ A versão hospedada neste repositório é uma **Demonstração (Demo)**. Todos o
 ---
 
 Feito com dedicação por **Samilly Cordeiro Ferreira** 👩‍💻
-[Conecte-se comigo no LinkedIn](www.linkedin.com/in/samilly-cordeiro-ferreira-)
+[Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/samilly-cordeiro-ferreira-)
