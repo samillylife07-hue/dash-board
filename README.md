@@ -4,7 +4,7 @@
 
 Uma aplicação web ágil, responsiva e visual, desenvolvida para substituir processos manuais em planilhas e otimizar o controle e a tomada de decisão no setor de atendimentos.
 
-[🚀 **Clique aqui para acessar o Dashboard Demo (Online)**](https://samillylife07-hue.github.io/dashboard-atendimento/))
+[🚀 **Clique aqui para acessar o Dashboard Demo (Online)**](https://samillylife07-hue.github.io/DASH2.0/)
 
 ---
 
